@@ -35,7 +35,7 @@ const Header = ({ menuImg, Hero, refState, handleRefState, darkCandleImg }) => (
 
 			<div className="header-columns">
 				<a href="/" className="logo-link">
-					<h1>Real Supply</h1>
+					<h1>Os Predestinados</h1>
 				</a>
 			</div>
 			<div className="header-columns">

@@ -103,7 +103,7 @@ const IndexPage = (data) => {
 	}
 
 	const docLink = {
-		text: 'Segue a gente: 🖼 @ospredestinados',
+		text: 'Segue a gente no Instagram: 🖼 @ospredestinados',
 		url: 'https://instagram.com/ospredestinados',
 		color: '#89f',
 	}

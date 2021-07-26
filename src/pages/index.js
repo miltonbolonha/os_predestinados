@@ -60,9 +60,10 @@ const IndexPage = ({ data }) => {
 					<div className="box-content">
 						<h3 className="main-title">Suprimento Sustentável</h3>
 						<p className="commom-paragraph">
-							A Real Supply é especialista em serviços de alojamento físico e
-							virtual. Bem como as administração do preço e das disponibilidades
-							de mercado dos mesmos, dentro da cadeia nacional de suprimentos.
+							A Os Predestinados é especialista em serviços de alojamento físico
+							e virtual. Bem como as administração do preço e das
+							disponibilidades de mercado dos mesmos, dentro da cadeia nacional
+							de suprimentos.
 						</p>
 						<p className="commom-paragraph">
 							Nossos colaboradores são especialistas em administração de preços
@@ -92,7 +93,7 @@ const IndexPage = ({ data }) => {
 						<div className="scene-title">
 							<StaticImage
 								src="../../static/assets/images/real-supply-crown.png"
-								alt="Real Supply"
+								alt="Os Predestinados"
 								width={150}
 								// height={60}
 								className="scene-logo"
@@ -101,14 +102,14 @@ const IndexPage = ({ data }) => {
 							<h2 className="scene-heading">Parceiros e compliance</h2>
 							<p className="commom-paragraph scene-paragraph">
 								Mantemos um histórico rigoroso e ético dos nossos procedimentos
-								internos desde o dia um de todos os contratos da Real Supply.
-								Promovendo assim um mercado mais transparente.
+								internos desde o dia um de todos os contratos da Os
+								Predestinados. Promovendo assim um mercado mais transparente.
 							</p>
 						</div>
 						<div className="circle-path ">
 							<StaticImage
 								src="../../static/assets/images/porto.jpg"
-								alt="Real Supply"
+								alt="Os Predestinados"
 								width={800}
 								height={320}
 								className="circle-me"
@@ -116,7 +117,7 @@ const IndexPage = ({ data }) => {
 							/>
 							{/* <StaticImage
 								src="../../static/assets/images/porto.jpg"
-								alt="Real Supply"
+								alt="Os Predestinados"
 								width={1200}
 								height={500}
 								className="circle-me blur"
@@ -141,7 +142,7 @@ const IndexPage = ({ data }) => {
 					<div className="zerb">
 						<StaticImage
 							src="../../static/assets/images/real-supply-crown.png"
-							alt="Real Supply"
+							alt="Os Predestinados"
 							width={150}
 							// height={60}
 							className="scene-logo"
@@ -150,7 +151,7 @@ const IndexPage = ({ data }) => {
 
 						<StaticImage
 							src="../../static/assets/images/real-supply-crown.png"
-							alt="Real Supply"
+							alt="Os Predestinados"
 							width={150}
 							// height={60}
 							className="scene-logo"
@@ -159,7 +160,7 @@ const IndexPage = ({ data }) => {
 
 						<StaticImage
 							src="../../static/assets/images/real-supply-crown.png"
-							alt="Real Supply"
+							alt="Os Predestinados"
 							width={150}
 							// height={60}
 							className="scene-logo"
@@ -168,7 +169,7 @@ const IndexPage = ({ data }) => {
 
 						<StaticImage
 							src="../../static/assets/images/real-supply-crown.png"
-							alt="Real Supply"
+							alt="Os Predestinados"
 							width={150}
 							className="scene-logo"
 							style={{ objectFit: 'cover' }}
@@ -176,7 +177,7 @@ const IndexPage = ({ data }) => {
 
 						<StaticImage
 							src="../../static/assets/images/real-supply-crown.png"
-							alt="Real Supply"
+							alt="Os Predestinados"
 							width={150}
 							className="scene-logo"
 							style={{ objectFit: 'cover' }}
